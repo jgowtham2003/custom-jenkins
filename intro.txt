@@ -1,0 +1,3 @@
+To create and use 
+1. build_jenkins.sh <imagename> (Will build docker container for jenkins with docker support)
+2. run_jenkins.sh <imagename>   (will run the container in local system)
